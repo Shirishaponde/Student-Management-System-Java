@@ -26,3 +26,14 @@ A console-based Student Management System developed using Java and Object-Orient
 
 ## Author
 Ponde Shirisha
+
+## Screenshots
+
+### Add Student
+![Add Student](AddStudent.png)
+
+### Display Student
+![Display Student](DisplayStudent.png)
+
+### Search Student
+![Search Student](SearchStudent.png)
